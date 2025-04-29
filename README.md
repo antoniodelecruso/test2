@@ -1,17 +1,1 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>test</title>
-    <link rel="stylesheet" href="/style2.css"> 
-</head>
-<body>
-    <h1>это тест</h1>
-    <p>Ты гей?</p>
-    <div class="container">
-        <a href="https://memchik.ru/show/5f022cd7b1c7e32552054b15?page=5" target="_blank" class="link">ДА</a>
-        <a href="https://meme-arsenal.com/create/meme/10482293" target="_blank" class="link">НЕТ</a>
-    </div>
-</body>
-</html>
+
